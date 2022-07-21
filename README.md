@@ -35,6 +35,3 @@ For Question 2: Change the regression problem into classification by creating qu
 4. Run ml model
 
 
-### Lets see how it did:
-https://gitlab.com/georgedonnelly/machine-learning-wine-score-predicton/blob/master/Make%20Better%20Wine.pptx.pdf
-
