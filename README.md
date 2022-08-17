@@ -1,3 +1,7 @@
+### Summary 
+
+Interested to explore basic machine learning.
+
 Data mining approach to predict human wine taste preferences and to classify types of wine.
 
 My purpose is to take another swipe at machine learning with various training models. Once again a large data set mix with red and white wine is considered.
